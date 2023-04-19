@@ -9,8 +9,6 @@ spec:
   ref:
     branch: main
   url: "https://github.com/yuepingxie/my-flux-cluster"
-  secretRef:
-    name: github-deploy-key
   ignore: |
     # exclude all
     /*
